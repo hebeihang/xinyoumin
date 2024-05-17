@@ -1,0 +1,16 @@
+/.idea
+/.vscode
+*.log
+.env
+/runtime
+/config/app.php
+/config/database.php
+/public/storage/
+/public/backup/
+/install/lock/
+h5/unpackage/*
+colorUI/unpackage/*
+view/unpackage/*
+view/.hbuilderx/*
+view/.idea/*
+/update/*
